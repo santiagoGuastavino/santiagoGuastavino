@@ -1,7 +1,7 @@
 <h2>Hi there! I'm Santiago Guastavino</h2>
 
-- I'm currently working on learning to code and make a career out of it.  
-- I'm currently learning full stack web development.  
+- I'm currently working in making a career out of programming.  
+- I'm currently learning full stack web development (MERN).  
 - I'm looking to colaborate on my colleagues' proyects.  
 
 ---
