@@ -6,12 +6,12 @@
 
 ---
 
-<h3>I've recently finished working on:</h3>  
+<h4>I've recently finished working on:</h4>  
 
 - [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)  
-*Mockup of Mercado Libre*  
+*Mockup of [Mercado Libre](https://store.steampowered.com/)*  
 
-<h3>I'm currently working on:</h3>
+<h4>I'm currently working on:</h4>
 
 - [Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)  
 *E-commerce.*  
