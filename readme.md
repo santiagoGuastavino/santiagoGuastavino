@@ -14,4 +14,4 @@
 <h4>I'm currently working on:</h4>
 
 - [Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)  
-*E-commerce.*  
+*Video game e-commerce*  
