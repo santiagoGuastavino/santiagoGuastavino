@@ -8,10 +8,10 @@
 
 <h3>I've recently finished working on:</h3>  
 
-[Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)  
+- [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)  
 *Mockup of Mercado Libre*  
 
 <h3>I'm currently working on:</h3>
 
-[Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)
+- [Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)  
 *E-commerce.*  
