@@ -9,7 +9,7 @@
 <h4>I've recently finished working on:</h4>  
 
 - [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)  
-*Mockup of [Mercado Libre](https://store.steampowered.com/)*  
+*Mockup of [Mercado Libre](https://mercadolibre.com.ar/)*  
 
 <h4>I'm currently working on:</h4>
 
