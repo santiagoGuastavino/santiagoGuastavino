@@ -6,12 +6,10 @@
 
 ---
 
-<h4>I've recently finished working on:</h4>  
+<h4>I'm currently working on:</h4>  
 
 - [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)  
-*Mockup of Mercado Libre* 
-
-<h4>I'm currently working on:</h4>
+*Mockup of Mercado Libre*  
 
 - [Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)  
 *Video game e-commerce*  
