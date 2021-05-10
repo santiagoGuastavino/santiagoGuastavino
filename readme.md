@@ -1,7 +1,7 @@
 <h2>Hi there! I'm Santiago Guastavino</h2>
 
-- I'm currently working in making a career out of programming.  
-- I'm currently learning full stack web development (MERN).  
+- I want to make a career out of programming.  
+- I'm currently learning Full Stack Web Development (MERN).  
 - I'm looking to colaborate on my colleagues' proyects.  
 
 ---
@@ -12,4 +12,4 @@
 *Mockup of Mercado Libre*  
 
 - [Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)  
-*Video game e-commerce*  
+*Video game e-commerce*   
