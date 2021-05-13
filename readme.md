@@ -2,7 +2,7 @@
 
 - I want to make a career out of programming.  
 - I'm currently learning Full Stack Web Development (MERN).  
-- I'm looking to colaborate on my colleagues' proyects.  
+- I'm looking forward to colaborate on my colleagues' proyects.  
 
 ---
 
