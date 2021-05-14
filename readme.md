@@ -16,7 +16,7 @@
 
 ---
 
-<h4>Lesser challenges:<h4>
+<h4>Lesser proyects:<h4>
 
 - [My portfolio](https://github.com/santiagoGuastavino/my-portfolio)  
 - [Pimienta & Sal](https://github.com/santiagoGuastavino/pimienta-y-sal)  
