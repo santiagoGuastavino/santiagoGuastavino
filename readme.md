@@ -1,10 +1,4 @@
-<h2>Hi there! I'm Santiago Guastavino</h2>
-
-- I want to make a career out of programming.  
-- I'm currently learning Full Stack Web Development.  
-- I'm looking forward to colaborate on my colleagues' proyects.  
-
----
+<h4>Hi there!</h4>
 
 <h3>I'm currently working on:</h3>  
 
@@ -13,9 +7,9 @@
 
 ---
 
-<h4>Other minor projects:<h4>
+<h4>Other projects:<h4>
 
-- [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)  
+<!-- - [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)   -->
 - [Pimienta & Sal](https://github.com/santiagoGuastavino/pimienta-y-sal)  
-- [My portfolio](https://github.com/santiagoGuastavino/my-portfolio)  
-- [Session & Cookies](https://github.com/santiagoGuastavino/login-practice)  
+- [Portfolio](https://github.com/santiagoGuastavino/my-portfolio)  
+<!-- - [Session & Cookies](https://github.com/santiagoGuastavino/login-practice)   -->
