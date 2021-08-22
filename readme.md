@@ -1,6 +1,7 @@
-<h4>Hi there!</h4>
 
-<h3>I'm currently working on:</h3>  
+---
+
+<h4>I'm currently working on:</h4>  
 
 - [Game Central](https://github.com/matiasncocco/grupo_6_GameCentral)  
 *Video game e-commerce*   
@@ -13,3 +14,5 @@
 - [Pimienta & Sal](https://github.com/santiagoGuastavino/pimienta-y-sal)  
 - [Portfolio](https://github.com/santiagoGuastavino/my-portfolio)  
 <!-- - [Session & Cookies](https://github.com/santiagoGuastavino/login-practice)   -->
+
+---
