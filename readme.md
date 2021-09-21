@@ -3,10 +3,12 @@
 
 <h4>I'm currently working on:</h4>  
 
-[Game Central:](https://g6-game-central.herokuapp.com/)
+>[Game Central:](https://g6-game-central.herokuapp.com/)
 *Video game e-commerce*   
-[Game Central Dashboard](https://game-central-dashboard.herokuapp.com/)  
-[Git Hub](https://github.com/matiasncocco/grupo_6_GameCentral)  
+>_[Git Hub](https://github.com/matiasncocco/grupo_6_GameCentral)_  
+
+>[Game Central:](https://game-central-dashboard.herokuapp.com/) *Dashboard*  
+>_[Git Hub](https://github.com/santiagoGuastavino/game-central-dashboard)_
 
 ---
 
