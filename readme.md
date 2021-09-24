@@ -17,7 +17,7 @@
 - [Movies](https://github.com/santiagoGuastavino/movies)
 - [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)
 - [Pimienta & Sal](https://github.com/santiagoGuastavino/pimienta-y-sal)
-- [Portfolio](https://github.com/santiagoGuastavino/my-portfolio)
+- [Portfolio](https://github.com/santiagoGuastavino/portfolio)
 - [Session & Cookies](https://github.com/santiagoGuastavino/login-practice)
 
 ---
