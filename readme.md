@@ -15,6 +15,7 @@
 <h4>Other projects:<h4>
 
 - [Movies](https://github.com/santiagoGuastavino/movies)
+- [Musicando](https://github.com/santiagoGuastavino/musicando)
 - [Mercado Liebre](https://github.com/santiagoGuastavino/mercadoLiebre)
 - [Pimienta & Sal](https://github.com/santiagoGuastavino/pimienta-y-sal)
 - [Portfolio](https://github.com/santiagoGuastavino/portfolio)
