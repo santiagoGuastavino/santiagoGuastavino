@@ -1,13 +1,16 @@
+I'm currently working as a Web Developer for **PIXEL ECOM MKTG SOLUTIONS**.  
+[Website](http://pixelecom.com/)  
+[LinkedIn](https://www.linkedin.com/company/pixelecom/mycompany/)
 
 ---
 
-<h4>I'm currently working on:</h4>  
+<h4>Biggest project I've worked on independently:</h4>  
 
 >[Game Central:](https://g6-game-central.herokuapp.com/)
 *Video game e-commerce*   
 >_[Git Hub](https://github.com/matiasncocco/grupo_6_GameCentral)_  
 
->[Game Central:](https://game-central-dashboard.herokuapp.com/) *Dashboard*  
+>[Game Central:](https://game-central-dashboard.herokuapp.com/) *React.js admin dashboard*  
 >_[Git Hub](https://github.com/santiagoGuastavino/game-central-dashboard)_
 
 ---
