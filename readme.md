@@ -1,10 +1,11 @@
-I'm currently working as a Web Developer for **PIXEL ECOM MKTG SOLUTIONS**.  
-[Website](http://pixelecom.com/)  
-[LinkedIn](https://www.linkedin.com/company/pixelecom/mycompany/)
+I'm currently working as a Web Developer for **PIXEL ECOM MKTG SOLUTIONS**
+
+>[Website](http://pixelecom.com/)  
+>[LinkedIn](https://www.linkedin.com/company/pixelecom/mycompany/)
 
 ---
 
-<h4>Biggest project I've worked on independently:</h4>  
+Biggest project I've worked on independently:
 
 >[Game Central:](https://g6-game-central.herokuapp.com/)
 *Video game e-commerce*   
@@ -15,7 +16,7 @@ I'm currently working as a Web Developer for **PIXEL ECOM MKTG SOLUTIONS**.
 
 ---
 
-<h4>Other projects:<h4>
+Other projects:
 
 - [RESTful Songs](https://github.com/santiagoGuastavino/musicando)
 - [Movies](https://github.com/santiagoGuastavino/movies)
