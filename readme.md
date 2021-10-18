@@ -1,4 +1,4 @@
-I'm currently working as a Web Developer for **PIXEL ECOM MKTG SOLUTIONS**
+I'm currently working as a Web Developer at **PIXEL ECOM MKTG SOLUTIONS**
 
 >[Website](http://pixelecom.com/)  
 >[LinkedIn](https://www.linkedin.com/company/pixelecom/mycompany/)
