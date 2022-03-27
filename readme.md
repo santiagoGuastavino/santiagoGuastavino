@@ -1,7 +1,7 @@
 Web Developer
 ---
 
-|            |          |            |          |               |
+| Skills     |          |            |          |               |
 |------------|----------|------------|----------|---------------|
 | Node.js    | React.js | Express.js | HTML     | CSS           |
 | Javascript | MySQL    | GIT        | REST API | MVC práctices |
