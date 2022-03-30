@@ -8,10 +8,11 @@
 
 ## About me
 
-- I want to make a career as a developer.
-- I look forward to grow as a professional in this field.
-- I take pleasure in beign orderly and organized.
-- I'm passionate about making my workspace follow my own guidelines.
+- Full stack web developer, skilled in writing clean code.
+- Proficient in mobile-first responsive design development.
+- Good knowledge of Javascript and web-based technologies.
+- Quick learner, responsible and self-motivated.
+- Passionate about making my workspace follow my own guidelines.
 
 ---
 
