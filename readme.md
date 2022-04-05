@@ -25,8 +25,8 @@
 | Mercado Liebre                | [Heroku](https://mercado-liebre-smg.herokuapp.com/)       | [Git Hub](https://github.com/santiagoGuastavino/mercadoLiebre)          |
 | Pimienta y Sal                | [Heroku](https://pimienta-y-sal.herokuapp.com/)           | [Git Hub](https://github.com/santiagoGuastavino/pimienta-y-sal)         |
 | Portfolio                     | [Heroku](https://my-portfolio-smg.herokuapp.com/)         | [Git Hub](https://github.com/santiagoGuastavino/portfolio)              |
-|
+|                               |                                                           |                                                                         |
 
-<!-- | Session & Cookies             | [Heroku](https://session-cookies-practice.herokuapp.com/) | [Git Hub](https://github.com/santiagoGuastavino/login-practice)         | -->
+<!-- Session & Cookies | [Heroku](https://session-cookies-practice.herokuapp.com/) | [Git Hub](https://github.com/santiagoGuastavino/login-practice) | -->
 
-<!-- | RESTful Songs                 | [Heroku](https://musicando-rest.herokuapp.com/)           | [Git Hub](https://github.com/santiagoGuastavino/musicando)              | -->
+<!-- RESTful Songs | [Heroku](https://musicando-rest.herokuapp.com/) | [Git Hub](https://github.com/santiagoGuastavino/musicando) | -->
