@@ -2,7 +2,7 @@
 
 ## Skills
 
-**Node.js** | **React.js** | **Express.js** | **HTML** | **CSS** | **Javascript** | **MySQL** | **GIT** | **REST** | **MVC Practices** | **Sequelize** | **Scrum** | **Heroku** |
+**Node.js** | **Next.js** | **React.js** | **Redux** | **Express.js** | **HTML** | **CSS** | **Sass** | **Javascript** | **MySQL** | **GIT** | **REST** | **MVC Practices** | **Sequelize** | **Scrum** | **Heroku** |
 
 ---
 
