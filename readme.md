@@ -30,7 +30,7 @@
 | Movies                        | [Heroku](https://smg-movies.herokuapp.com/)               | [Git Hub](https://github.com/santiagoGuastavino/movies)                 |
 | Mercado Liebre                | [Heroku](https://mercado-liebre-smg.herokuapp.com/)       | [Git Hub](https://github.com/santiagoGuastavino/mercadoLiebre)          |
 | Pimienta y Sal                | [Heroku](https://pimienta-y-sal.herokuapp.com/)           | [Git Hub](https://github.com/santiagoGuastavino/pimienta-y-sal)         |
-| Portfolio                     | [Heroku](https://my-portfolio-smg.herokuapp.com/)         | [Git Hub](https://github.com/santiagoGuastavino/portfolio)              |
+| Portfolio                     | [Heroku](https://smg-portfolio.herokuapp.com/)            | [Git Hub](https://github.com/santiagoGuastavino/portfolio)              |
 
 <!-- Session & Cookies | [Heroku](https://session-cookies-practice.herokuapp.com/) | [Git Hub](https://github.com/santiagoGuastavino/login-practice) | -->
 
