@@ -4,8 +4,8 @@
 
 **Javascript** | **HTML** | **CSS** | **Sass**  
 **Node.js** | **Express.js** | **MVC Practices** | **REST Architecture**  
-**React.js** | **Redux.js** | **Next.js**  
-**GIT** | **Heroku**  
+**Next.js** | **React.js** | **Redux.js**  
+**GIT** | **Heroku** | **Firebase**  
 **MySQL** | **Sequelize**  
 **Agile Methodologies** | **Scrum**  
 
