@@ -1,27 +1,17 @@
 # Web Developer
 
-## Skills
-
-**Next.js** | **React.js** | **Redux.js**  
-**Node.js** | **Express.js**  
-**Heroku** | **Firebase**  
-**MVC Practices** | **REST Architecture**  
-**MySQL**  
-**Agile Methodologies** | **Scrum**  
+Full stack web developer, skilled in writing clean code.  
+Proficient in mobile-first responsive design development.  
+Good knowledge of Javascript and web-based technologies.  
+Quick learner, responsible and self-motivated.  
+Passionate about making my workspace follow my own guidelines.  
 
 ---
 
-## About me
-
-- Full stack web developer, skilled in writing clean code.
-- Proficient in mobile-first responsive design development.
-- Good knowledge of Javascript and web-based technologies.
-- Quick learner, responsible and self-motivated.
-- Passionate about making my workspace follow my own guidelines.
+**Next.js, React.js, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST Architecture, MySQL, Agile Methodologies**
 
 ---
 
-## Projects
 | Project                       | Deploy                                                    | Code                                                                      |
 |-------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------|
 | tuiter                        | n/a                                                       | [Git Hub](https://github.com/santiagoGuastavino/tuiter)                   |
