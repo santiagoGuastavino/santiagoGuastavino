@@ -2,11 +2,11 @@
 
 ## Skills
 
-**Javascript** | **HTML** | **CSS** | **Sass**  
-**Node.js** | **Express.js** | **MVC Practices** | **REST Architecture**  
 **Next.js** | **React.js** | **Redux.js**  
-**GIT** | **Heroku** | **Firebase**  
-**MySQL** | **Sequelize**  
+**Node.js** | **Express.js**  
+**Heroku** | **Firebase**  
+**MVC Practices** | **REST Architecture**  
+**MySQL**  
 **Agile Methodologies** | **Scrum**  
 
 ---
@@ -24,6 +24,7 @@
 ## Projects
 | Project                       | Deploy                                                    | Code                                                                      |
 |-------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------|
+| tuiter                        | n/a                                                       | [Git Hub](https://github.com/santiagoGuastavino/tuiter)                   |
 | Parallax Effect               | [Heroku](https://smg-parallax.herokuapp.com/)             | [Git Hub](https://github.com/santiagoGuastavino/parallax-effect)          |
 | Movies React Redux            | [Heroku](https://smg-movies-redux.herokuapp.com/)         | [Git Hub](https://github.com/santiagoGuastavino/movies-react-redux)       |
 | Game Central (GC)             | [Heroku](https://g6-game-central.herokuapp.com/)          | [Git Hub](https://github.com/matiasncocco/grupo_6_GameCentral)            |
@@ -32,7 +33,5 @@
 | Mercado Liebre                | [Heroku](https://mercado-liebre-smg.herokuapp.com/)       | [Git Hub](https://github.com/santiagoGuastavino/mercadoLiebre)            |
 | Pimienta y Sal                | [Heroku](https://pimienta-y-sal.herokuapp.com/)           | [Git Hub](https://github.com/santiagoGuastavino/pimienta-y-sal)           |
 | Portfolio                     | [Heroku](https://smg-portfolio.herokuapp.com/)            | [Git Hub](https://github.com/santiagoGuastavino/portfolio)                |
-
-<!-- Session & Cookies | [Heroku](https://session-cookies-practice.herokuapp.com/) | [Git Hub](https://github.com/santiagoGuastavino/login-practice) | -->
 
 <!-- RESTful Songs | [Heroku](https://musicando-rest.herokuapp.com/) | [Git Hub](https://github.com/santiagoGuastavino/musicando) | -->
