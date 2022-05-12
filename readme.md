@@ -11,7 +11,7 @@ Passionate about making my workspace follow my own guidelines.
 **Next.js, React.js, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST Architecture, MySQL, Agile Methodologies**
 
 ---
-## Check out my work
+### Check out my work
 |Project|Focus|Deploy|Code|
 |-|-|-|-|
 |tuiter|Next.js|n/a|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
