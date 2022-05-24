@@ -5,10 +5,11 @@ Proficient in mobile-first responsive design development.
 Good knowledge of Javascript and web-based technologies.  
 Quick learner, responsible and self-motivated.  
 Passionate about making my workspace follow my own guidelines.  
+I've made programming my profession **and** my hobby. I'm having fun.
 
 ---
 
-**MERN stack, Node.js, Next.js, React.js, React Native, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST Architecture, MySQL, MongoDB, Agile Methodologies**
+**MERN stack, Node.js, Next.js, React.js, React Native, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban**
 
 ---
 ### Check out my work
