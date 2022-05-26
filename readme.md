@@ -15,7 +15,8 @@ I've made programming my profession **and** my hobby. I'm having fun.
 ### Check out my work
 |Project|Focus|Deploy|Code|
 |-|-|-|-|
-|tuiter|Next.js|n/a|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
+|Rate Repository App|React Native|not yet deployed|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
+|tuiter|Next.js|not yet deployed|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
 |Parallax Effect|[react-spring](https://react-spring.io/)|[Heroku](https://smg-parallax.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/parallax-effect)|
 |Movies React Redux|Redux|[Heroku](https://smg-movies-redux.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/movies-react-redux)|
 |Admin Dashboard|React.js|[Heroku](https://game-central-dashboard.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/game-central-dashboard)|
@@ -25,7 +26,7 @@ I've made programming my profession **and** my hobby. I'm having fun.
 |Pimienta y Sal|[ejs](https://ejs.co/)|[Heroku](https://pimienta-y-sal.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/pimienta-y-sal)|
 |Portfolio|MVC design|[Heroku](https://smg-portfolio.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/portfolio)|
 
-<!-- |Rate Repository App|React Native|n/a|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)| -->
+
 <!-- |Memories|MERN|n/a|[Git Hub](https://github.com/santiagoGuastavino/memories)| -->
 <!-- |NEST.JS|-|-|-| -->
 <!-- |Restful Songs|REST arquitecture|[Heroku](https://musicando-rest.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/musicando)| -->
