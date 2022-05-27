@@ -9,12 +9,13 @@ I've made programming my profession **and** my hobby. I'm having fun.
 
 ---
 
-**MERN stack, Node.js, Next.js, React.js, React Native, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban**
+**MERN stack, Node.js, Next.js, React.js, React Native, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban, HTML, CSS, Sass, Tailwind**
 
 ---
 ### Check out my work
 |Project|Focus|Deploy|Code|
 |-|-|-|-|
+|React & Tailwind|Tailwind CSS|[Heroku](https://smg-react-tailwind.herokuapp.com/)|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|not yet deployed|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
 |tuiter|Next.js|not yet deployed|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
 |Parallax Effect|[react-spring](https://react-spring.io/)|[Heroku](https://smg-parallax.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/parallax-effect)|
