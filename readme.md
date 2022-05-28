@@ -13,7 +13,7 @@ I've made programming my profession **and** my hobby. I'm having fun.
 
 ---
 ### Check out my work
-|Project|Focus|Code|
+|Project|Focus|Code and Readme|
 |-|-|-|
 |[React & Tailwind](https://smg-react-tailwind.herokuapp.com/)|Tailwind CSS|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
