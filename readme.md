@@ -9,7 +9,7 @@ I've made programming my profession **and** my hobby. I'm having fun.
 
 ---
 
-**MERN stack, Node.js, Next.js, React.js, React Native, Redux.js, Express.js, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban, HTML, CSS, Sass, Tailwind**
+**MERN stack, Node.js, Next.js, React.js, React Native, Redux, Express.js, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban, HTML, CSS, Sass, Tailwind**
 
 ---
 ### Check out my work
