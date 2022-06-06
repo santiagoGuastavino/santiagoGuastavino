@@ -8,12 +8,17 @@ Passionate about making my workspace follow my own guidelines.
 
 ---
 
+### Check out my [Portfolio](https://my-portfolio-santiagoguastavino.vercel.app/).
+
+---
+
 **MERN stack, Node.js, Next.js, React.js, React Native, Redux, Express.js, Docker, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban, HTML, CSS, Sass, Tailwind**
 
 ---
 ### Check out my work
 |Project|Focus|Code and Readme|
 |-|-|-|
+|[My Portfolio](https://my-portfolio-santiagoguastavino.vercel.app/)|Next.js, Tailwind CSS|[Github](https://github.com/santiagoGuastavino/my-portfolio)|
 |[React & Tailwind](https://smg-react-tailwind.herokuapp.com/)|Tailwind CSS|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
 |[tuiter](https://tuiter.vercel.app/)|Next.js|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
