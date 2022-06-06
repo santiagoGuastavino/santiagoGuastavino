@@ -16,7 +16,7 @@ Passionate about making my workspace follow my own guidelines.
 |-|-|-|
 |[React & Tailwind](https://smg-react-tailwind.herokuapp.com/)|Tailwind CSS|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
-|tuiter|Next.js|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
+|[tuiter](https://tuiter.vercel.app/)|Next.js|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
 |[Parallax Effect](https://smg-parallax.herokuapp.com/)|[react-spring](https://react-spring.io/)|[Git Hub](https://github.com/santiagoGuastavino/parallax-effect)|
 |[Movies React Redux](https://smg-movies-redux.herokuapp.com/)|Redux|[Git Hub](https://github.com/santiagoGuastavino/movies-react-redux)|
 |[Admin Dashboard](https://game-central-dashboard.herokuapp.com/)|React.js|[Git Hub](https://github.com/santiagoGuastavino/game-central-dashboard)|
