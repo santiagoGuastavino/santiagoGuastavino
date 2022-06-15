@@ -12,7 +12,7 @@ Passionate about making my workspace follow my own guidelines.
 
 ---
 
-**MERN stack, Node.js, Next.js, React.js, React Native, Redux, Express.js, Docker, Heroku, Firebase, MVC Practices, REST API, MySQL, MongoDB, Agile Methodologies, Scrum, Kanban, HTML, CSS, Sass, Tailwind**
+**MERN & PERN stacks, Javascript, Typescript, Node.js, Express.js, Next.js, React.js, React Native, Redux, Docker, Heroku, Firebase, MVC Practices, REST API, MySQL, PostgreSQL, MongoDB, Firebase Firestore, Agile Methodologies, Scrum, Kanban, HTML, CSS, Sass, Tailwind**
 
 ---
 ### Check out my work
