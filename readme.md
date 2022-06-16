@@ -18,6 +18,7 @@ Passionate about making my workspace follow my own guidelines.
 ### Check out my work
 |Project|Focus|Code and Readme|
 |-|-|-|
+|[Blogs](https://blogs-mern-client.herokuapp.com/)|MERN Stack|[GitHub/Client](https://github.com/santiagoGuastavino/blogs-mern-client) [GitHub/Server](https://github.com/santiagoGuastavino/blogs-mern-server)|
 |[My Portfolio](https://my-portfolio-santiagoguastavino.vercel.app/)|Next.js, Tailwind CSS|[Github](https://github.com/santiagoGuastavino/my-portfolio)|
 |[React & Tailwind](https://smg-react-tailwind.herokuapp.com/)|Tailwind CSS|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
@@ -30,8 +31,3 @@ Passionate about making my workspace follow my own guidelines.
 |[Mercado Liebre](https://mercado-liebre-smg.herokuapp.com/)|MVC design|[Git Hub](https://github.com/santiagoGuastavino/mercadoLiebre)|
 |[Pimienta y Sal](https://pimienta-y-sal.herokuapp.com/)|[ejs](https://ejs.co/)|[Git Hub](https://github.com/santiagoGuastavino/pimienta-y-sal)|
 |[Portfolio](https://smg-portfolio.herokuapp.com/)|MVC design|[Git Hub](https://github.com/santiagoGuastavino/portfolio)|
-
-
-<!-- |Memories|MERN|n/a|[Git Hub](https://github.com/santiagoGuastavino/memories)| -->
-<!-- |NEST.JS|-|-|-| -->
-<!-- |Restful Songs|REST arquitecture|[Heroku](https://musicando-rest.herokuapp.com/)|[Git Hub](https://github.com/santiagoGuastavino/musicando)| -->
