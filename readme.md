@@ -18,7 +18,7 @@ Passionate about making my workspace follow my own guidelines.
 ### Check out my work
 |Project|Focus|Code and Readme|
 |-|-|-|
-|[Blogs](https://blogs-mern-client.herokuapp.com/)|MERN Stack|[GitHub/Client](https://github.com/santiagoGuastavino/blogs-mern-client) [GitHub/Server](https://github.com/santiagoGuastavino/blogs-mern-server)|
+|[Blogs](https://blogs-mern-client.herokuapp.com/)|MERN Stack|[Client](https://github.com/santiagoGuastavino/blogs-mern-client)/[Server](https://github.com/santiagoGuastavino/blogs-mern-server)|
 |[My Portfolio](https://my-portfolio-santiagoguastavino.vercel.app/)|Next.js, Tailwind CSS|[Github](https://github.com/santiagoGuastavino/my-portfolio)|
 |[React & Tailwind](https://smg-react-tailwind.herokuapp.com/)|Tailwind CSS|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
