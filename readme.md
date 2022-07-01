@@ -27,8 +27,8 @@ Quick learner, responsible and self-motivated.
 ### Check out my work
 |Project|Focus|Code and Readme|
 |-|-|-|
-|[Blogs](https://blogs-mern-client.herokuapp.com/)|MERN Stack|[Client](https://github.com/santiagoGuastavino/blogs-mern-client)/[Server](https://github.com/santiagoGuastavino/blogs-mern-server)|
-|[My Portfolio](https://my-portfolio-santiagoguastavino.vercel.app/)|Next.js, Tailwind CSS|[Github](https://github.com/santiagoGuastavino/my-portfolio)|
+|[Blogs](https://blogs-mern-client.herokuapp.com/)|MERN Stack|[Client](https://github.com/santiagoGuastavino/blogs-mern-client) - [Server](https://github.com/santiagoGuastavino/blogs-mern-server)|
+|[My Portfolio](https://my-portfolio-santiagoguastavino.vercel.app/)|Next.js, Tailwind CSS|[Client](https://github.com/santiagoGuastavino/my-portfolio) - [Server](https://github.com/santiagoGuastavino/my-portfolio-server)|
 |[React & Tailwind](https://smg-react-tailwind.herokuapp.com/)|Tailwind CSS|[Github](https://github.com/santiagoGuastavino/react-tailwind)|
 |Rate Repository App|React Native|[GitHub](https://github.com/santiagoGuastavino/rate-repository-app)|
 |[tuiter](https://tuiter.vercel.app/)|Next.js|[Git Hub](https://github.com/santiagoGuastavino/tuiter)|
