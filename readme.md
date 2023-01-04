@@ -12,6 +12,7 @@ Quick learner, responsible and self-motivated.
 ---
 
 - I'm proficient in Javascript and Typescript.
+- Currently learning Java.
 - Skilled in Node js, Express js, Nest js, React js, Next js and React Native.
 - Well versed in Object Oriented Programming, Desig Patterns and SOLID design principles.
 - Capable of dockerizing applications and databases services.
